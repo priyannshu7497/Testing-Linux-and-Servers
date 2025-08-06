@@ -1,0 +1,17 @@
+Create automated backups for:
+
+Sarah’s Apache server: /etc/httpd/ and /var/www/html/
+
+Mike’s Nginx server: /etc/nginx/ and /usr/share/nginx/html/
+
+Schedule cron jobs every Tuesday at 12:00 AM
+
+Save to /backups/ with filenames like:
+
+apache_backup_YYYY-MM-DD.tar.gz
+
+nginx_backup_YYYY-MM-DD.tar.gz
+
+Verify backup by listing contents
+
+Document everything with logs/screenshots

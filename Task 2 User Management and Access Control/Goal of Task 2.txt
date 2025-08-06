@@ -1,0 +1,9 @@
+Create user accounts for Sarah and Mike
+
+Assign secure passwords
+
+Set up isolated directories
+
+Enforce a password policy with expiration and complexity
+
+Document steps and collect terminal outputs/screenshots

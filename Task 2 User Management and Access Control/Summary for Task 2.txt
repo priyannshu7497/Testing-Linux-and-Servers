@@ -1,0 +1,5 @@
+We created user accounts for Sarah and Mike using `useradd` and set secure passwords. 
+Dedicated workspace directories were created at `/home/Sarah/workspace` and `/home/mike/workspace`, 
+with permissions set to `700` to restrict access. 
+Password policy was enforced by setting expiration to 30 days and enabling a 7-day warning. 
+This was verified using `chage -l`, showing that password expiry settings were applied successfully.

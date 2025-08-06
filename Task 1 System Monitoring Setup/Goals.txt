@@ -1,0 +1,5 @@
+Monitor CPU, memory, disk usage, and processes.
+
+Generate logs of system metrics.
+
+Identify high-resource processes.

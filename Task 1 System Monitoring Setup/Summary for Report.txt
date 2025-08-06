@@ -1,0 +1,1 @@
+We installed htop to monitor real-time CPU, memory, and processes. We collected system usage data using `df` and `du`, and identified high CPU-consuming processes using `ps`. All outputs were saved as logs in `/var/log/`. This ensures developers and admins have visibility into performance issues and capacity planning.
